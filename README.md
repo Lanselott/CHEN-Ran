@@ -3,7 +3,7 @@
 Currently, I'm a year one PhD student at department of Computer Science & Engineering, The Chinese University of Hong Kong. 
 I'm interested in Computer Vision and Machine Learning. 
 
-![Me](./ran-chen-1.jpg)
+![Me](./ran-chen-1.jpg =250x250)
 Format: ![Alt Text](url)
 
 ### Recent Work
