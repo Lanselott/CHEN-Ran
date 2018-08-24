@@ -3,7 +3,8 @@
 Currently, I'm a year one PhD student at department of Computer Science & Engineering, The Chinese University of Hong Kong. 
 I'm interested in Computer Vision and Machine Learning. 
 
-![Me](https://github.com/Lanselott/CHEN-Ran/blob/master/ran-chen-1.jpg)
+![Me]
+(https://github.com/Lanselott/CHEN-Ran/blob/master/ran-chen-1.jpg)
 
 ### Recent Work
 
