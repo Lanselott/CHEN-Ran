@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Ran Chen's homepage
 
-You can use the [editor on GitHub](https://github.com/Lanselott/Lanselott/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently, I'm a year one PhD student at department of Computer Science & Engineering, The Chinese University of Hong Kong. 
+I'm interested in Computer Vision and Machine Learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+%### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
