@@ -3,8 +3,8 @@
 Currently, I'm a year one PhD student at department of Computer Science & Engineering, The Chinese University of Hong Kong. 
 I'm interested in Computer Vision and Machine Learning. 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ### Recent Work
 
