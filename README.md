@@ -11,7 +11,6 @@ I'm interested in Computer Vision and Machine Learning.
 
 ENGG 5105/CSCI 5470: Computer and Network Security
 Fall 2018
-http://course.cse.cuhk.edu.hk/~csci5470/
 
 ### Contact
 
