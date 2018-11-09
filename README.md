@@ -1,7 +1,7 @@
 ## Welcome to Ran Chen's homepage
 
-Currently, I'm a year one PhD student at department of Computer Science & Engineering,The Chinese University of Hong Kong. Supervised by Professor Bei Yu. 
-I'm interested in Computer Vision and Machine Learning. 
+Currently, I'm a year one PhD student at department of Computer Science & Engineering,The Chinese University of Hong Kong. 
+Supervised by Professor Bei Yu. I'm interested in Computer Vision and Machine Learning. 
 
 ### Recent Work
 
