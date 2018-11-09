@@ -12,6 +12,10 @@ Supervised by Professor Bei Yu. I'm interested in Computer Vision and Machine Le
 ENGG 5105/CSCI 5470: Computer and Network Security
 Fall 2018
 
+### Awards
+[Second Place of ICCAD Contest: Timing-Aware Fill Insertion]
+(http://iccad-contest.org/2018/winners.html)
+
 ### Contact
 
 [Linkedin](https://www.linkedin.com/in/chen-ran-391a17137/) or [Email](alexjohnny1207@gmail.com)
