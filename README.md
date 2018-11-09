@@ -15,8 +15,7 @@ Fall 2018
 ### Awards
 CUHK Postgraduate Studentship
 
-[Second Place of ICCAD Contest: Timing-Aware Fill Insertion]
-(http://iccad-contest.org/2018/winners.html)
+[Second Place of ICCAD Contest: Timing-Aware Fill Insertion](http://iccad-contest.org/2018/winners.html)
 
 ### Contact
 
